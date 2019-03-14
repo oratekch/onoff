@@ -34,7 +34,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "epoll": "^2.0.8",
+    "epoll": "https://github.com/oratekch/epoll",
     "lodash.debounce": "^4.0.8"
   },
   "devDependencies": {
